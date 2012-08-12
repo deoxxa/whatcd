@@ -1,0 +1,24 @@
+{
+  "name": "whatcd",
+  "version": "1.0.0",
+  "description": "What.CD JSON API library",
+  "main": "lib/whatcd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/whatcd.git"
+  },
+  "keywords": [
+    "what.cd",
+    "api",
+    "json",
+    "what",
+    "music",
+    "torrent"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.10.0",
+    "underscore": "~1.3.3"
+  }
+}
