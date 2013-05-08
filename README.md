@@ -1,7 +1,7 @@
 What.CD
 =======
 
-Simple, idiomatic access to the API features of [What.CD](http://what.cd/).
+Simple, idiomatic access to the API features of [What.CD](https://what.cd/).
 
 Overview
 --------
@@ -28,7 +28,7 @@ Example
 ```javascript
 var WhatCD = require("whatcd");
 
-var client = new WhatCD("http://what.cd", "username", "password");
+var client = new WhatCD("https://what.cd", "username", "password");
 
 client.index(function(err, data) {
   if (err) {
@@ -50,7 +50,7 @@ client.METHOD([PARAMETERS,] function(err, data) {
 
 **METHOD** is one of the methods below and **PARAMETERS** is an object that maps
 directly to URL parameters in the request to the website. For more information,
-see [this article](http://what.cd/wiki.php?action=article&name=api). You will
+see [this article](https://what.cd/wiki.php?action=article&name=api). You will
 need to be logged in to view it.
 
 There's also an `api_request` method that automatically handles login and such,
