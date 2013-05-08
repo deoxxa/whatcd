@@ -78,24 +78,30 @@ This is exactly how all the methods listed below operate under the hood.
 Available Methods
 -----------------
 
+* announcements
 * artist
 * bookmarks
+* bookmarks_artists
+* bookmarks_torrents
 * browse
 * forum_main
 * forum_viewforum
 * forum_viewthread
 * inbox
-* inbox_conversation
+* inbox_inbox
+* inbox_sentbox
+* inbox_viewconv
 * index
 * notifications
 * request
-* requestsearch
-* rippy
+* requests
+* similar_artists
 * subscriptions
 * top10
 * top10_tags
 * top10_torrents
 * top10_users
+* torrent
 * torrentgroup
 * user
 * usersearch
