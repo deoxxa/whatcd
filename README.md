@@ -81,16 +81,16 @@ Available Methods
 * announcements
 * artist
 * bookmarks
-* bookmarks_artists
-* bookmarks_torrents
+* bookmarks_artists (or bookmarksArtists)
+* bookmarks_torrents (or bookmarksTorrents)
 * browse
-* forum_main
-* forum_viewforum
-* forum_viewthread
+* forum_main (or forumMain)
+* forum_viewforum (or forumViewForum)
+* forum_viewthread (or forumViewThread)
 * inbox
-* inbox_inbox
-* inbox_sentbox
-* inbox_viewconv
+* inbox_inbox (or inboxInbox)
+* inbox_sentbox (or inboxSentbox)
+* inbox_viewconv (or inboxViewconv)
 * index
 * notifications
 * request
@@ -98,9 +98,9 @@ Available Methods
 * similar_artists
 * subscriptions
 * top10
-* top10_tags
-* top10_torrents
-* top10_users
+* top10_tags (or top10Tags)
+* top10_torrents (or top10Torrents)
+* top10_users (or top10Users)
 * torrent
 * torrentgroup
 * user
